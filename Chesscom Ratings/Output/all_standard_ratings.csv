@@ -1,0 +1,51 @@
+,rank,title,name,country,classical,rapid,blitz
+0,#1,GM,Magnus Carlsen,'Norway',2864,2834,2831
+1,#2,GM,Ding Liren,'China',2808,2836,2788
+2,#3,GM,Ian Nepomniachtchi,Russia,2792,2795,2791
+3,#4,GM,Alireza Firouzja,'France',2778,2704,2795
+4,#5,GM,Fabiano Caruana,'United States',2776,2766,2847
+5,#6,GM,Wesley So,'United States',2773,2783,2763
+6,#7,GM,Levon Aronian,'United States',2771,2728,2850
+7,#8,GM,Hikaru Nakamura,'United States',2768,2837,2850
+8,#9,GM,Anish Giri,'Netherlands',2760,2721,2794
+9,#10,GM,Shakhriyar Mamedyarov,'Azerbaijan',2759,2699,2710
+10,#11,GM,Maxime Vachier-Lagrave,'France',2757,2763,2812
+11,#12,GM,Viswanathan Anand,'India',2756,2731,2734
+12,#13,GM,Richard Rapport,'Hungary',2754,2802,2613
+13,#14,GM,Leinier Dominguez Perez,'United States',2754,2705,2708
+14,#15,GM,Sergey Karjakin,Russia,2747,2736,2611
+15,#16,GM,Teimour Radjabov,'Azerbaijan',2747,2747,2685
+16,#17,GM,Alexander Grischuk,'International',2745,2759,2762
+17,#18,GM,Jan-Krzysztof Duda,'Poland',2740,2808,2779
+18,#19,GM,Wang Hao,'China',2735,2750,2690
+19,#20,GM,Dmitry Andreikin,'International',2729,2675,2736
+20,#21,GM,Veselin Topalov,'Bulgaria',2728,2627,2667
+21,#22,GM,Le Quang Liem,'Vietnam',2728,2626,2657
+22,#23,GM,Wei Yi,'China',2727,2752,2686
+23,#24,GM,Nikita Vitiugov,'International',2722,2580,2673
+24,#25,GM,Samuel Shankland,'United States',2720,2616,2645
+25,#26,GM,Pentala Harikrishna,'India',2720,2624,2574
+26,#27,GM,Vidit Santosh Gujrathi,'India',2714,2617,2654
+27,#28,GM,Radoslaw Wojtaszek,'Poland',2711,2636,2606
+28,#29,GM,Francisco Vallejo Pons,'Spain',2710,2682,2644
+29,#30,GM,Bu Xiangzhi,'China',2709,2642,2760
+30,#31,GM,Yu Yangyi,'China',2708,2738,2808
+31,#32,GM,Vladislav Artemiev,Russia,2707,2710,2832
+32,#33,GM,Kirill Alekseenko,Russia,2707,2639,2682
+33,#34,GM,Gukesh D,'India',2704,2223,2598
+34,#35,GM,Sanan Sjugirov,Russia,2703,2553,2609
+35,#36,GM,Daniil Dubov,Russia,2702,2712,2791
+36,#37,GM,Evgeny Tomashevsky,Russia,2702,2631,2695
+37,#38,GM,Parham Maghsoodloo,'Iran',2701,2629,2607
+38,#39,GM,Alexei Shirov,'Spain',2701,2621,2678
+39,#40,GM,Gabriel Sargissian,'Armenia',2698,2639,2561
+40,#41,GM,Michael Adams,'England',2696,2651,2742
+41,#42,GM,Matthew D Sadler,'England',2694,2673,2646
+42,#43,GM,Anton Korobov,'Ukraine',2692,2642,2635
+43,#44,GM,Bogdan-Daniel Deac,'Romania',2692,2577,2648
+44,#45,GM,Jeffery Xiong,'United States',2691,2725,2714
+45,#46,GM,Arjun Erigaisi,'India',2689,2450,2745
+46,#47,GM,Alexandr Predke,'International',2688,2573,2614
+47,#48,GM,David Navara,'Czech Republic',2688,2659,2676
+48,#49,GM,Hans Moke Niemann,'United States',2688,2529,2632
+49,#50,GM,Nodirbek Abdusattorov,'Uzbekistan',2688,2670,2663
